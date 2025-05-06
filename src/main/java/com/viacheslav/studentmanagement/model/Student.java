@@ -1,4 +1,5 @@
-package com.viacheslav.model;
+package com.viacheslav.studentmanagement.model;
 
 public class Student {
+
 }
